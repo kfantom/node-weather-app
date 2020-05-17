@@ -1,0 +1,44 @@
+h1 {
+    color: grey;
+}
+
+img {
+    width: 250px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid;
+    margin-bottom: 1em;
+}
+
+.anchor-tag a {
+   margin-right: 16px;
+   text-decoration: none;
+   color: grey;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+input {
+    padding: 8px;
+    border: 1px solid #cccccc;
+    /* background: white; */
+    outline: none;
+}
+
+button {
+    padding: 8px;
+    border: 1px solid #888888;
+    background: #88888888;
+    color: white;
+    cursor: pointer;
+}
